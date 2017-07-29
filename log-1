@@ -1,0 +1,328 @@
+MultiMC version: 5 Modify by hackphoenix.com
+
+Minecraft folder is:
+instances/Şehir/minecraft
+
+Java path is:
+java
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx1024m, -Duser.language=en, -jar, C:/Program Files/MultiMC X/jars/NewLaunch.jar]
+
+Minecraft process ID: 3552
+
+Using onesix launcher.
+
+Main Class:
+  net.minecraft.launchwrapper.Launch
+
+Native path:
+  C:/Program Files/MultiMC X/instances/Şehir/natives
+
+Traits:
+  []
+
+Libraries:
+  C:/Program Files/MultiMC X/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar
+  C:/Program Files/MultiMC X/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+  C:/Program Files/MultiMC X/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar
+  C:/Program Files/MultiMC X/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+  C:/Program Files/MultiMC X/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+  C:/Program Files/MultiMC X/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+  C:/Program Files/MultiMC X/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+  C:/Program Files/MultiMC X/libraries/com/mojang/netty/1.6/netty-1.6.jar
+  C:/Program Files/MultiMC X/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar
+  C:/Program Files/MultiMC X/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Program Files/MultiMC X/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Program Files/MultiMC X/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Program Files/MultiMC X/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Program Files/MultiMC X/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar
+  C:/Program Files/MultiMC X/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+  C:/Program Files/MultiMC X/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+  C:/Program Files/MultiMC X/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar
+  C:/Program Files/MultiMC X/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+  C:/Program Files/MultiMC X/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+  C:/Program Files/MultiMC X/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+  C:/Program Files/MultiMC X/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+  C:/Program Files/MultiMC X/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+  C:/Program Files/MultiMC X/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar
+  C:/Program Files/MultiMC X/libraries/com/google/guava/guava/17.0/guava-17.0.jar
+  C:/Program Files/MultiMC X/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+  C:/Program Files/MultiMC X/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
+  C:/Program Files/MultiMC X/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+  C:/Program Files/MultiMC X/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+  C:/Program Files/MultiMC X/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+  C:/Program Files/MultiMC X/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+  C:/Program Files/MultiMC X/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+  C:/Program Files/MultiMC X/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar
+  C:/Program Files/MultiMC X/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+  C:/Program Files/MultiMC X/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+  C:/Program Files/MultiMC X/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar
+  C:/Program Files/MultiMC X/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar
+  C:/Program Files/MultiMC X/versions/1.7.10/1.7.10.jar
+
+Mods:
+  [1.7.10]InstantMassiveStructuresMod2
+
+Params:
+  [--username, <PROFILE NAME>, --version, MultiMC5, --gameDir, C:/Program Files/MultiMC X/instances/Şehir/minecraft, --assetsDir, C:/Program Files/MultiMC X/assets, --assetIndex, 1.7.10, --uuid, <PROFILE ID>, --accessToken, <ACCESS TOKEN>, --userProperties, {}, --userType, mojang, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker]
+
+Window size: max (if available)
+
+Preparing native libraries...
+Extracting twitch-platform-5.16-natives-windows-32.jar
+Extracting twitch-external-platform-4.5-natives-windows-32.jar
+Extracting jinput-platform-2.0.5-natives-windows.jar
+Extracting lwjgl-platform-2.9.1-natives-windows.jar
+
+[12:50:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:50:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:50:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:50:34] [main/INFO] [FML]: Forge Mod Loader version 7.99.36.1558 for Minecraft 1.7.10 loading
+[12:50:34] [main/INFO] [FML]: Java is Java HotSpot(TM) Client VM, version 1.8.0_121, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_121
+[12:50:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:50:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[12:50:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:50:35] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:50:35] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:50:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[12:50:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[12:50:40] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:50:40] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[12:50:43] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[12:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[12:50:43] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[12:50:46] [main/INFO]: Setting user: <PROFILE NAME>
+[12:50:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:50:53] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[12:50:53] [Client thread/INFO] [STDOUT]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 7/29/17 12:50 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_121, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 431806816 bytes (411 MB) / 519110656 bytes (495 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'Intel' Version: '4.0.0 - Build 10.18.10.4242' Renderer: 'Intel(R) HD Graphics 4000'
+[12:50:53] [Client thread/INFO] [MinecraftForge]: Attempting early MinecraftForge initialization
+[12:50:53] [Client thread/INFO] [FML]: MinecraftForge v10.13.4.1558 Initialized
+[12:50:54] [Client thread/INFO] [FML]: Replaced 183 ore recipies
+[12:50:54] [Client thread/INFO] [MinecraftForge]: Completed early MinecraftForge initialization
+[12:50:55] [Client thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[12:50:55] [Client thread/INFO] [FML]: Searching C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods for mods
+[12:51:30] [Client thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[12:51:31] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, imsm] at CLIENT
+[12:51:31] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, imsm] at SERVER
+[12:51:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Instant Massive Structures Mod
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:38] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[12:51:38] [Client thread/INFO] [FML]: Found 341 ObjectHolder annotations
+[12:51:38] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[12:51:38] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[12:51:38] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[12:51:39] [Client thread/INFO] [FML]: Applying holder lookups
+[12:51:39] [Client thread/INFO] [FML]: Holder lookups applied
+[12:51:39] [Client thread/INFO] [FML]: Injecting itemstacks
+[12:51:39] [Client thread/INFO] [FML]: Itemstack injection complete
+[12:51:40] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:51:40] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[12:51:40] [Thread-8/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[12:51:40] [Thread-8/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:51:40] [Thread-8/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[12:51:40] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:51:40] [Sound Library Loader/INFO]: Sound engine started
+[12:51:54] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:51:54] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:51:54] [Client thread/INFO] [FML]: Injecting itemstacks
+[12:51:54] [Client thread/INFO] [FML]: Itemstack injection complete
+[12:51:55] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[12:51:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Instant Massive Structures Mod
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:56] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: SimJoo_IMSM in C:\Program Files\MultiMC X\instances\Şehir\minecraft\mods\[1.7.10]InstantMassiveStructuresMod2.jar
+[12:51:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:52:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:52:00] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:52:00] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[12:52:00] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[12:52:00] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:52:00] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:52:00] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[12:52:00] [Thread-10/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[12:52:00] [Thread-10/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:52:00] [Thread-10/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[12:52:01] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[12:52:01] [Sound Library Loader/INFO]: Sound engine started
+[12:52:57] [Client thread/INFO]: Deleting level Şehir
+[12:52:57] [Client thread/INFO]: Attempt 1...
+[12:53:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:53:20] [Server thread/INFO]: Generating keypair
+[12:53:21] [Server thread/INFO]: Converting map!
+[12:53:21] [Server thread/INFO]: Scanning folders...
+[12:53:21] [Server thread/INFO]: Total conversion count is 0
+[12:53:21] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
+[12:53:21] [Server thread/INFO] [FML]: Applying holder lookups
+[12:53:21] [Server thread/INFO] [FML]: Holder lookups applied
+[12:53:22] [Server thread/INFO] [FML]: Loading dimension 0 (Şehir) (net.minecraft.server.integrated.IntegratedServer@ad5236)
+[12:53:22] [Server thread/INFO] [FML]: Loading dimension 1 (Şehir) (net.minecraft.server.integrated.IntegratedServer@ad5236)
+[12:53:22] [Server thread/INFO] [FML]: Loading dimension -1 (Şehir) (net.minecraft.server.integrated.IntegratedServer@ad5236)
+[12:53:22] [Server thread/INFO]: Preparing start region for level 0
+[12:53:23] [Server thread/INFO]: Preparing spawn area: 9%
+[12:53:24] [Server thread/INFO]: Preparing spawn area: 22%
+[12:53:25] [Server thread/INFO]: Preparing spawn area: 36%
+[12:53:26] [Server thread/INFO]: Preparing spawn area: 50%
+[12:53:27] [Server thread/INFO]: Preparing spawn area: 63%
+[12:53:28] [Server thread/INFO]: Preparing spawn area: 77%
+[12:53:29] [Server thread/INFO]: Preparing spawn area: 91%
+[12:53:30] [Server thread/INFO]: Changing view distance to 2, from 10
+[12:53:34] [Netty Client IO #0/INFO] [FML]: Server protocol version 2
+[12:53:34] [Netty IO #1/INFO] [FML]: Client protocol version 2
+[12:53:34] [Netty IO #1/INFO] [FML]: Client attempting to join with 4 mods : FML@7.10.99.99,Forge@10.13.4.1558,mcp@9.05,imsm@1.7.10
+[12:53:34] [Netty IO #1/INFO] [FML]: Attempting connection with missing mods [] at CLIENT
+[12:53:34] [Netty Client IO #0/INFO] [FML]: Attempting connection with missing mods [] at SERVER
+[12:53:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[12:53:34] [Client thread/INFO] [FML]: [Client thread] Client side modded connection established
+[12:53:34] [Server thread/INFO]: <PROFILE NAME>[local:E:8c59d957] logged in with entity id 0 at (187.5, 102.0, -132.5)
+[12:53:34] [Server thread/INFO]: <PROFILE NAME> oyuna katıldı
+[12:53:38] [Server thread/INFO]: <PROFILE NAME> [Envanter Alma] başarımını kazandı
+[12:53:38] [Client thread/INFO]: [CHAT] <PROFILE NAME> [Envanter Alma] başarımını kazandı
+[12:54:32] [Server thread/INFO] [STDOUT]: [modid.imsm.core.StructureCreator:removeThisStructure:110]: Removed 0
+[12:55:00] [Server thread/INFO] [STDOUT]: [modid.imsm.core.StructureCreator:removeThisStructure:110]: Removed 0
+[12:55:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2845ms behind, skipping 56 tick(s)
+[12:55:13] [Server thread/INFO]: [<PROFILE NAME>: <PROFILE NAME> 1.5,68.5,1.5 noktasına ışınlandı]
+[12:55:14] [Client thread/INFO]: [CHAT] <PROFILE NAME> 1.5,68.5,1.5 noktasına ışınlandı
+[12:55:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2051ms behind, skipping 41 tick(s)
+[12:55:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5520ms behind, skipping 110 tick(s)
+[12:56:07] [Server thread/INFO] [STDOUT]: [modid.imsm.core.StructureCreator:removeThisStructure:110]: Removed 0
+[12:56:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8463ms behind, skipping 169 tick(s)
+[12:56:28] [Client thread/INFO]: [CHAT] mobGriefing = true
+[12:56:30] [Server thread/INFO]: [<PROFILE NAME>: Oyun kuralları güncellendi]
+[12:56:30] [Client thread/INFO]: [CHAT] Oyun kuralları güncellendi
+[12:56:35] [Server thread/INFO]: Saving and pausing game...
+[12:56:35] [Server thread/INFO]: Saving chunks for level 'Şehir'/Overworld
+[12:56:35] [Server thread/INFO]: Saving chunks for level 'Şehir'/Nether
+[12:56:35] [Server thread/INFO]: Saving chunks for level 'Şehir'/The End
+[12:57:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3357ms behind, skipping 67 tick(s)
+[12:57:51] [Server thread/INFO]: Saving and pausing game...
+[12:57:51] [Server thread/INFO]: Saving chunks for level 'Şehir'/Overworld
+[12:57:51] [Server thread/INFO]: Saving chunks for level 'Şehir'/Nether
+[12:57:51] [Server thread/INFO]: Saving chunks for level 'Şehir'/The End
+[12:57:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2877ms behind, skipping 57 tick(s)
+[12:58:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7303ms behind, skipping 146 tick(s)
+[12:59:39] [Server thread/INFO] [STDOUT]: [modid.imsm.core.StructureCreator:removeThisStructure:110]: Removed 2
+[12:59:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 67989ms behind, skipping 1359 tick(s)
+[12:59:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6291ms behind, skipping 125 tick(s)
+Oyun çöktü. Hata kodu: -805306369.
